@@ -1,4 +1,4 @@
-#assigning elements to differnet lists
+#assigning elements to different lists
 l = [4, 5]
 l.append(6)
 print(l)
